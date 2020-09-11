@@ -1,0 +1,81 @@
+{
+    "ServerOperatingSystems":
+    [
+        "Windows Server Standard",
+        "Windows Server Datacenter",
+        "Windows Server 2008 R2 Foundation",
+        "Windows Server 2008 R2 Standard",
+        "Windows Server 2008 R2 Enterprise",
+        "Windows Server 2008 R2 Datacenter",
+        "Windows Server 2008 R2 for Itanium-based Systems",
+        "Windows Web Server 2008 R2",
+        "Windows Storage Server 2008 R2",
+        "Windows HPC Server 2008 R2",
+        "Windows Small Business Server 2011",
+        "Windows MultiPoint Server 2011",
+        "Windows Home Server 2011",
+        "Windows MultiPoint Server 2010",
+        "Windows Server 2008 Standard",
+        "Windows Server 2008 Enterprise",
+        "Windows Server 2008 Datacenter",
+        "Windows Server 2008 for Itanium-based Systems",
+        "Windows Server Foundation 2008",
+        "Windows Essential Business Server 2008",
+        "Windows HPC Server 2008",
+        "Windows Small Business Server 2008",
+        "Windows Storage Server 2008",
+        "Windows Web Server 2008",
+        "Windows Small Business Server 2003 R2",
+        "Windows Server 2003 R2 Web Edition",
+        "Windows Server 2003 R2 Standard Edition",
+        "Windows Server 2003 R2 Enterprise Edition",
+        "Windows Server 2003 R2 Datacenter Edition",
+        "Windows Storage Server",
+        "Windows Home Server",
+        "Windows Small Business Server 2003",
+        "Windows Server 2003 Web",
+        "Windows Server 2003 Standard",
+        "Windows Server 2003 Enterprise",
+        "Windows Server 2003 Datacenter",
+        "Windows Storage Server",
+        "Windows 2000 Server",
+        "Windows 2000 Advanced Server",
+        "Windows 2000 Datacenter Server",
+        "Windows NT 4.0 Server",
+        "Windows NT 4.0 Server Enterprise",
+        "Windows NT 4.0 Terminal Server Edition"
+    ],
+    "ClientOperatingSystems":
+    [
+        "Windows 10 Home",
+        "Windows 10 Pro",
+        "Windows 10 Pro Education",
+        "Windows 10 Enterprise",
+        "Windows 10 Education",
+        "Windows 7 Starter",
+        "Windows 7 Home Basic",
+        "Windows 7 Home Premium",
+        "Windows 7 Professional",
+        "Windows 7 Enterprise",
+        "Windows 7 Ultimate",
+        "Windows Vista Starter",
+        "Windows Vista Home Basic",
+        "Windows Vista Home Premium",
+        "Windows Vista Business",
+        "Windows Vista Enterprise",
+        "Windows Vista Ultimate",
+        "Windows XP Starter",
+        "Windows XP Home",
+        "Windows XP Professional"
+    ],
+    "ServerOSVersions":
+    [
+        "10.0 (16299)"
+    ],
+    "Win10OSVersions":
+    [
+        "10.0 (10586)",
+        "10.0 (15063)",
+        "10.0 (14393)"
+    ]
+}
